@@ -1,26 +1,26 @@
 {
-    "version": "1.0.3",
+    "version": "1.1.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/onozaty/reporg/releases/download/v1.0.3/reporg_v1.0.3_Windows_i386.zip",
+            "url": "https://github.com/onozaty/reporg/releases/download/v1.1.0/reporg_v1.1.0_Windows_i386.zip",
             "bin": [
                 "reporg.exe"
             ],
-            "hash": "ec6ce869e6c6a411e438637e0c1819ccb5aa49515c9d31c58ef0d894b84b7362"
+            "hash": "9ed5a3dff5a9c09f5bba0f54371f769a9eafe2e676290ea8da184e5f21b8946b"
         },
         "64bit": {
-            "url": "https://github.com/onozaty/reporg/releases/download/v1.0.3/reporg_v1.0.3_Windows_x86_64.zip",
+            "url": "https://github.com/onozaty/reporg/releases/download/v1.1.0/reporg_v1.1.0_Windows_x86_64.zip",
             "bin": [
                 "reporg.exe"
             ],
-            "hash": "9eb8393f291e4b020b51bfe75c2b765312a029d7a785a051c0861e59973844c9"
+            "hash": "b3b0991fc05d1545fa521f5bab875b43097015987c29d5c601cfaad083b26612"
         },
         "arm64": {
-            "url": "https://github.com/onozaty/reporg/releases/download/v1.0.3/reporg_v1.0.3_Windows_arm64.zip",
+            "url": "https://github.com/onozaty/reporg/releases/download/v1.1.0/reporg_v1.1.0_Windows_arm64.zip",
             "bin": [
                 "reporg.exe"
             ],
-            "hash": "8e7f55cbffd417747339fe5c3a846c7fbfa5e63102a1a81468d313b471682535"
+            "hash": "2e09ff6dde8b50179ffdd5efaf08ec70bbc33b4213d44bf96def83b094f4cc58"
         }
     },
     "homepage": "https://github.com/onozaty/reporg",
