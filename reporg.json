@@ -1,0 +1,32 @@
+{
+    "version": "1.0.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/onozaty/reporg/releases/download/v1.0.2/reporg_v1.0.2_Windows_i386.zip",
+            "bin": [
+                "reporg.exe"
+            ],
+            "hash": "730abbfe6ec88b17de6f9bf141b04f33824727cda5f552e21e18435bb85d5322"
+        },
+        "64bit": {
+            "url": "https://github.com/onozaty/reporg/releases/download/v1.0.2/reporg_v1.0.2_Windows_x86_64.zip",
+            "bin": [
+                "reporg.exe"
+            ],
+            "hash": "30083db088c098c55ab4f27bb0de97710783ef6422ce81aa25cdd12baa7324ce"
+        },
+        "arm64": {
+            "url": "https://github.com/onozaty/reporg/releases/download/v1.0.2/reporg_v1.0.2_Windows_arm64.zip",
+            "bin": [
+                "reporg.exe"
+            ],
+            "hash": "c7eba815dfbcf147a9ae7b9b5cc23f501097e75f7f503b56724b52e7ce52fbd2"
+        }
+    },
+    "homepage": "https://github.com/onozaty/reporg",
+    "license": "MIT",
+    "description": "CLI tool that searches Git repositories using ripgrep and outputs results in TSV format",
+    "depends": [
+        "ripgrep"
+    ]
+}
