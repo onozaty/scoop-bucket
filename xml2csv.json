@@ -1,0 +1,29 @@
+{
+    "version": "1.2.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/onozaty/xml2csv/releases/download/v1.2.2/xml2csv_v1.2.2_Windows_i386.zip",
+            "bin": [
+                "xml2csv.exe"
+            ],
+            "hash": "d9ac4405ee5a3b1e10c0345cde5ab5ea2f6b79768d4f5d45c2173103ecc02768"
+        },
+        "64bit": {
+            "url": "https://github.com/onozaty/xml2csv/releases/download/v1.2.2/xml2csv_v1.2.2_Windows_x86_64.zip",
+            "bin": [
+                "xml2csv.exe"
+            ],
+            "hash": "6ab6aeb35a7caeb2d277fe359a256bf6fc52745e9165ae7bcc04c2c0bf1acb5d"
+        },
+        "arm64": {
+            "url": "https://github.com/onozaty/xml2csv/releases/download/v1.2.2/xml2csv_v1.2.2_Windows_arm64.zip",
+            "bin": [
+                "xml2csv.exe"
+            ],
+            "hash": "d3ed7a131910a859a9dab41564b002c1c9bc750a99bf3ba69764172703243eaf"
+        }
+    },
+    "homepage": "https://github.com/onozaty/xml2csv",
+    "license": "MIT",
+    "description": "xml2csv converts XML to CSV. You can easily define mappings for converts using XPath."
+}
