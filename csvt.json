@@ -1,0 +1,29 @@
+{
+    "version": "1.15.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/onozaty/csvt/releases/download/v1.15.1/csvt_v1.15.1_Windows_i386.zip",
+            "bin": [
+                "csvt.exe"
+            ],
+            "hash": "50ab7bfdcc9e22c92531516f6acb2f67e53f83703848b135e7d85b3381eb5cf8"
+        },
+        "64bit": {
+            "url": "https://github.com/onozaty/csvt/releases/download/v1.15.1/csvt_v1.15.1_Windows_x86_64.zip",
+            "bin": [
+                "csvt.exe"
+            ],
+            "hash": "94ac0fa8b456098b7b619dded11e5122757603fd1df3a43d35d29df2f89dd2d7"
+        },
+        "arm64": {
+            "url": "https://github.com/onozaty/csvt/releases/download/v1.15.1/csvt_v1.15.1_Windows_arm64.zip",
+            "bin": [
+                "csvt.exe"
+            ],
+            "hash": "8b326fbb414f520cc7048dfb1906e8d195c656ae0154800786890ac57b4bb4d4"
+        }
+    },
+    "homepage": "https://github.com/onozaty/csvt",
+    "license": "MIT",
+    "description": "Command line tool for processing CSV"
+}
