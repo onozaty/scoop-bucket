@@ -1,26 +1,26 @@
 {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/onozaty/xml2csv/releases/download/v1.2.3/xml2csv_v1.2.3_Windows_i386.zip",
+            "url": "https://github.com/onozaty/xml2csv/releases/download/v1.2.4/xml2csv_v1.2.4_Windows_i386.zip",
             "bin": [
                 "xml2csv.exe"
             ],
-            "hash": "452724893117e1b5ef900e9161a40c3f11faea608ea1f4b311c4940e8bea24cd"
+            "hash": "3334cb1b8f4cd8f650b5c40cef61141e4556087224329225b023c840bf43df02"
         },
         "64bit": {
-            "url": "https://github.com/onozaty/xml2csv/releases/download/v1.2.3/xml2csv_v1.2.3_Windows_x86_64.zip",
+            "url": "https://github.com/onozaty/xml2csv/releases/download/v1.2.4/xml2csv_v1.2.4_Windows_x86_64.zip",
             "bin": [
                 "xml2csv.exe"
             ],
-            "hash": "218f5f0d610582baa15b3f8fabc1b1243b9bef16244f45f432a67b9687735289"
+            "hash": "89cfe6882f3191c7b60a8e762f245fcb3aba8d4a1d59abb10e008ee24aced1e0"
         },
         "arm64": {
-            "url": "https://github.com/onozaty/xml2csv/releases/download/v1.2.3/xml2csv_v1.2.3_Windows_arm64.zip",
+            "url": "https://github.com/onozaty/xml2csv/releases/download/v1.2.4/xml2csv_v1.2.4_Windows_arm64.zip",
             "bin": [
                 "xml2csv.exe"
             ],
-            "hash": "a033bc57062ec7c4753cc09d1a75f5b7ef293d9761d18a4e254045bbb64c997f"
+            "hash": "03aaf9fcbeee8525b40866052356bad8f12e8ac46f64df2e9704da4eaaba93d1"
         }
     },
     "homepage": "https://github.com/onozaty/xml2csv",
