@@ -1,26 +1,26 @@
 {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/onozaty/filep/releases/download/v1.1.1/filep_v1.1.1_Windows_i386.zip",
+            "url": "https://github.com/onozaty/filep/releases/download/v1.1.2/filep_v1.1.2_Windows_i386.zip",
             "bin": [
                 "filep.exe"
             ],
-            "hash": "4f9ba9ea2ac80803e3cb56e3ed4508da82269fa6f9afdb4fa7c0937a2cbfa285"
+            "hash": "f3e84d6ca0cc1cd26675bfb8c7f4697d01a37f1189e5087fbe97ef6308019142"
         },
         "64bit": {
-            "url": "https://github.com/onozaty/filep/releases/download/v1.1.1/filep_v1.1.1_Windows_x86_64.zip",
+            "url": "https://github.com/onozaty/filep/releases/download/v1.1.2/filep_v1.1.2_Windows_x86_64.zip",
             "bin": [
                 "filep.exe"
             ],
-            "hash": "1e431077b32be079abdab7a8e22004964c9c6eb31f786ed068662f38d035e930"
+            "hash": "60e928654f224b5ad4ff159de008801d8658dd0a35a90516113528c164e3b426"
         },
         "arm64": {
-            "url": "https://github.com/onozaty/filep/releases/download/v1.1.1/filep_v1.1.1_Windows_arm64.zip",
+            "url": "https://github.com/onozaty/filep/releases/download/v1.1.2/filep_v1.1.2_Windows_arm64.zip",
             "bin": [
                 "filep.exe"
             ],
-            "hash": "d157e27aa1a73ed0c28fdd64b244bccdb0d4b0dac17663c1e6968ccae693cf8d"
+            "hash": "b604a51ce7aa68a737a225f08c3d13d84ff83b0b88f7a2b82ed832fabce1e924"
         }
     },
     "homepage": "https://github.com/onozaty/filep",
