@@ -1,0 +1,29 @@
+{
+    "version": "1.1.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/onozaty/filep/releases/download/v1.1.1/filep_v1.1.1_Windows_i386.zip",
+            "bin": [
+                "filep.exe"
+            ],
+            "hash": "4f9ba9ea2ac80803e3cb56e3ed4508da82269fa6f9afdb4fa7c0937a2cbfa285"
+        },
+        "64bit": {
+            "url": "https://github.com/onozaty/filep/releases/download/v1.1.1/filep_v1.1.1_Windows_x86_64.zip",
+            "bin": [
+                "filep.exe"
+            ],
+            "hash": "1e431077b32be079abdab7a8e22004964c9c6eb31f786ed068662f38d035e930"
+        },
+        "arm64": {
+            "url": "https://github.com/onozaty/filep/releases/download/v1.1.1/filep_v1.1.1_Windows_arm64.zip",
+            "bin": [
+                "filep.exe"
+            ],
+            "hash": "d157e27aa1a73ed0c28fdd64b244bccdb0d4b0dac17663c1e6968ccae693cf8d"
+        }
+    },
+    "homepage": "https://github.com/onozaty/filep",
+    "license": "MIT",
+    "description": "A powerful command-line file processing tool"
+}
