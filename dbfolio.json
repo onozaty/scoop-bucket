@@ -1,19 +1,19 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/onozaty/dbfolio/releases/download/v1.1.0/dbfolio_1.1.0_windows_amd64.zip",
+            "url": "https://github.com/onozaty/dbfolio/releases/download/v1.2.0/dbfolio_1.2.0_windows_amd64.zip",
             "bin": [
                 "dbfolio.exe"
             ],
-            "hash": "070b07337c2a2939af77a51e00fca418ff60bdbf6ea2db4742d90fc10eecd365"
+            "hash": "e33424ef01707edf68eb66aab222739eba4d1bd6a0d73ec639c996e3e3b74fa4"
         },
         "arm64": {
-            "url": "https://github.com/onozaty/dbfolio/releases/download/v1.1.0/dbfolio_1.1.0_windows_arm64.zip",
+            "url": "https://github.com/onozaty/dbfolio/releases/download/v1.2.0/dbfolio_1.2.0_windows_arm64.zip",
             "bin": [
                 "dbfolio.exe"
             ],
-            "hash": "32935a2fafbe6e663cf71ca73052096364d2f36e64659b8f42848380ec2614f6"
+            "hash": "c10d28b5e0d1b1a08109c5321444fde3ccc2775544900a6a366e8f9bdf0434a0"
         }
     },
     "homepage": "https://github.com/onozaty/dbfolio",
